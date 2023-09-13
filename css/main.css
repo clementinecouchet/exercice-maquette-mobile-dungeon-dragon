@@ -26,6 +26,9 @@ body {
 
   font-size: 1rem;
   line-height: 1.5rem;
+  max-width: 414px;
+  margin: auto;
+  font-family: "Roboto", sans-serif;
 }
 
 a {
@@ -39,6 +42,31 @@ video {
   vertical-align: text-top;
 }
 
+footer {
+  background-image: url(../_consigne/images/StrangerThings__DnD_Articles_HeaderImage.jpg);
+}
+
+.list-footer ul li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  background-color: beige;
+  text-align: center;
+  padding: 14px 98px 12px 98px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+  padding: 25px 76px 22px 75px;
+  line-height: 1;
+}
 /* ====================================
 // base rules
 // ==================================== */
