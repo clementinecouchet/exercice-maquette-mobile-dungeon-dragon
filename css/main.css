@@ -55,7 +55,7 @@ a {
 }
 
 h1 {
-  background-color: beige;
+  background-color: #e7e7db;
   text-align: center;
   padding: 14px 98px 12px 98px;
 }
@@ -66,6 +66,27 @@ h2 {
   font-size: 36px;
   padding: 25px 76px 22px 75px;
   line-height: 1;
+}
+
+.dragon {
+  border-bottom: 2px solid #df0000;
+  border-top: 2px solid #df0000;
+}
+
+.redfont {
+  color: #df0000;
+}
+
+hr {
+  border: 1px solid #df0000;
+}
+
+h4 {
+  font-size: 18pxs;
+}
+
+h3 {
+  font-size: 21px;
 }
 /* ====================================
 // base rules
